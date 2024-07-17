@@ -13,3 +13,5 @@ In this tutorial, we dive into the Student Result Analysis Project using Python,
 - **Data Analysis Techniques**: Learn how to handle and analyze data related to student performance.
 - **Insightful Visualizations**: Create and interpret visualizations to gain insights from the data.
 - **Python Programming Skills**: Improve your Python programming skills with real-world applications.
+
+Reference for the same is https://youtu.be/olKpzHKvAxQ?si=TPDyhAL4bRMtQpVE
